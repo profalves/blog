@@ -1,5 +1,10 @@
 {
-  "2019": [
+  "2019": [{
+      "id": "ComponentesReact",
+      "date": "March 23, 2019",
+      "title": "Componentes React",
+      "description": "Inspirado em como eu vejo claramente coisas que utilizo atualmente, farei uma abordagem na forma de como gostaria de ter aprendido se tivesse começando a aprender React hoje, ou até mesmo para quem está iniciando os seus estudos com essa biblioteca."
+    },
     {
       "id": "vue-markdown-blog",
       "date": "March 18, 2019",
@@ -7,8 +12,7 @@
       "description": "Simple and neat way to add a blogging feature to add on your website."
     }
   ],
-  "stories": [
-    {
+  "stories": [{
       "id": "maud-sparrow",
       "date": "April 21, 2018",
       "title": "Maud Sparrow and the Four Wicked Horses",

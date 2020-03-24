@@ -1,7 +1,6 @@
 <template>
   <div class="home">
-    <h1 class="headline center">v-m-blog</h1>
-    <img alt="Vue logo" src="../assets/logo.png">
+    <h1 class="headline center">blog</h1>
     <div class="sections">
       <div v-for="(section, index) in Object.keys(entries)" :key="index" class="group">
         <h2 class="center">{{section}}</h2>
@@ -53,7 +52,7 @@ h2 {
 }
 
 h3 {
-  color: #42b883;
+  color: #74C1E2;
   margin-bottom: 0;
   cursor: pointer;
   &:hover {
